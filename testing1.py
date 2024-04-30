@@ -7,7 +7,7 @@ print("Please enter")
  # *  then we can track for changes in our file using git add file_name
 #* after adding the changes , we can do git status to see whats going on 
 # ! dont forget to put git add file_name to update the status for the last change before commiting 
- # * saving tha chnages - git commit -m "updated"
+ # * saving tha changes - git commit -m "updated"
 # * if we want to see the commits(our history of changes) we can write git log
 
 
