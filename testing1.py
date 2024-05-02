@@ -22,4 +22,3 @@ print("Please enter")
 #* git remote add origin name_of_repo -  you can see on wich oriring you in , type git remote -v 
 #*git push -u origin main
 
-#o
