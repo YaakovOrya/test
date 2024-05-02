@@ -14,3 +14,4 @@ print("Please enter")
 # * after one commit , if you want to edit it and commit it again 
 # * make the changes , run the code, and the rest is known
 # * you can do git diff to see the chnages from the last code
+#* if we write bad code and we want to return to the last commit we can do git checkout -- . to return to the last commit. 
