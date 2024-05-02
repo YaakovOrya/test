@@ -15,3 +15,11 @@ print("Please enter")
 # * make the changes , run the code, and the rest is known
 # * you can do git diff to see the chnages from the last code
 #* if we write bad code and we want to return to the last commit we can do git checkout -- . to return to the last commit. 
+
+
+
+# * Pushing changes to github:
+#* git remote add origin name_of_repo -  you can see on wich oriring you in , type git remote -v 
+#*git push -u origin main
+
+#o
