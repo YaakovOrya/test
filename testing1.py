@@ -22,3 +22,10 @@ print("Please enter")
 #* git remote add origin name_of_repo -  you can see on wich oriring you in , type git remote -v 
 #*git push -u origin main
 
+
+#* change git branch 
+#* git branch -m master main
+
+#* change origin 
+#* git remote set-url origin https://gitlab.com/KodeKloud/repository-1.git
+
